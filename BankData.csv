@@ -1,0 +1,16 @@
+Name, age, No. of family members, salary, payment duration in months, loan value in k, ID, decision, Egyptian, owns property
+,,,,,,,,,
+Ahmed,28,4,4400,36,100,123, n, n, y
+Mohamed,30,3,6800,48,50,456, y, n, y
+Salma,29,6,10000,60,100,789, y, y, y
+Maged,47,7,25000,72,50,444, y, y, n
+Alaa,50,1,5000,24,500,655, y, n, n
+Ali,39,2,4300,24,1000,999, n, y, n
+Selim,37,2,7000,24,40,345, n, n, y
+Hussein,70,8,10000,12,900,665, n, y, n
+Seif,34,2,12000,18,2000,989, y, n, y
+Haidy,44,2,33000,18,2000,442, y, y, n
+Zakaria,32,2,19500,18,30,113, n, y, y
+Menna,32,4,20000,12,500,695, n, y, n
+Asmaa,47,4,23000,12,500,346, n, n, y
+Hala,51,5,15000,24,300,342, y, n, n
